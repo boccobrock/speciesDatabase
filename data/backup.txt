@@ -1,0 +1,18 @@
+1	Japanese Tree Frog	Hyla japonica	Images\Japtreefrog.jpg	The journalist Toyohiro Akiyama carried some Japanese tree frogs with him during his trip to the Mir space station in December 1990.	Japan
+2	Lion	Panthera leo	Images\Lion.jpg	The lion is the second largest cat, after the tiger. The male lion, easily recognized by his mane, weighs between 150-225 kg (330-500 lb).	Africa
+3	Domestic Sheep	Ovis aries	Images\Sheep.jpg	The most common species of the sheep genus (Ovis), is a woolly ruminant quadruped which probably descends from the wild mouflon of south-central and south-west Asia.	Worldwide
+4	Cow	Bos taurus	Images\Cow.jpg	They are raised as livestock for meat (called beef and veal), dairy products (milk), leather and as draught animals (pulling carts, plows and the like). In some countries, such as India, they are subject to religious ceremonies and respect.	Worldwide
+5	Domestic Cat	Felis silvestris catus	Images\Cat.jpg	A skilled predator, the cat is known to hunt over 1,000 species for food. Intelligent, the cat can be trained to obey simple commands, and has been known to teach itself to manipulate simple mechanisms	Worldwide
+6	Bald Eagle	Haliaeetus leucocephalus	Images\Baldeagle.jpg	The species is on the brink of extinction since the USA's late in the 20th century, but now has a stable population.	North America
+7	Common Chimp	Pan troglodytes	Images\Commonchimp.jpg	Although omnivores, their diet is mainly vegetarian, consisting of fruits, leaves, nuts, seeds, tubers, and miscellaneous plantlife, supplemented by insects and small prey.	African Tropics
+8	Rainbow Trout	Oncorhynchus mykiss	Images\RainbowTrout.jpg	The species was originally named by Johann Julius Walbaum in 1792.	Asia/N. America
+9	Emperor Penguin	Aptenodytes forsteri	Images\Emperorpenguin.jpg	The tallest and heaviest of all living penguin species.	Antarctica
+10	Osprey	Pandion haliaetus	Images\Osprey.PNG	An unusual bird with no close relatives, it is the only living species of the genus Pandion, which is in turn the only genus in the bird family Pandionidae.	Worldwide
+11	Bottlenose Dolphin	Tursiops truncatus	Images\Bottlenosedolphin.jpg	It inhabits warm and temperate seas worldwide and may be found in all but the Arctic and the Antarctic Oceans.	Oceanwide
+12	Horse	Equus caballus	Images\Horse.PNG	A large odd-toed ungulate mammal, one of ten modern species of the genus Equus.	Worldwide
+13	House Sparrow	Passer domesticus	Images\Housesparrow.jpg	In the United States it is also known as the 'English Sparrow', to distinguish it from native species.	Europe/Asia
+14	Leopard gecko	Eublepharis macularius	Images\Leopardgecko.jpg	The etymology of their name is 'eu' = Good (=true) 'blephar' = Eyelid macularius' = Spotted.	Middle East
+15	Sumatran Orangutan	Pongo abelii	Images\sumatranorangutan.jpg	Sumatran Orangutans are often poached as highly prized Zoo Inhabitants, and the poachers often kill the baby's mother for no apparent reason	Sumatra
+16	Grey Wolf	Canis lupus	Images\Wolf.jpg	Gray Wolf shares a common ancestry with the domestic dog (Canis lupus familiaris).	Spotted areas
+17	Zebra (Cape Mountain)	Equus zebra	Images\zebra.jpg	Mountain Zebras are native to South West Africa and are found in dry, stony, mountain and hill habitats. Its diet is tufted grass, bark, leaves, fruit and roots.	SW Africa
+18	Rhode Island Red Chicken	Gallus gallus	C:\Program Files\Jeff\programming\Java\Species\Images\chicken.jpg	First Raised in rhode island, and became thier state bird.	Rhode Island
